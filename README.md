@@ -9,12 +9,14 @@ Depois, o código estabelece um diretório chamado 'data_lake' caso ainda não e
 Por fim, ele importa esses dados para o banco de dados e, após a importação, gera mais relatórios e três gráficos adicionais.
 
 <h2>Resultado1</h2>
-![resultado1](https://github.com/fogacaue/DataLake-e-WareHouse/assets/127510984/ceb120a4-d3f5-4936-bc34-490d0b6f27de)
+![image](https://github.com/fogacaue/DataLake-e-WareHouse/assets/127510984/3fb5cc3f-aeaa-4a5d-af5b-b97e9bb7fa56)
+
 
 
 <h2>Resultado2</h2>
-![image](https://github.com/fogacaue/DataLake-e-WareHouse/assets/127510984/cc9d6f28-f21d-4123-8a0e-9d1434e7bc0f)
-![image](https://github.com/fogacaue/DataLake-e-WareHouse/assets/127510984/e938d78f-a0df-4d88-94ba-6671130d2efc)
+![image](https://github.com/fogacaue/DataLake-e-WareHouse/assets/127510984/eea5bed6-7f56-43e3-864f-c0dbf4b1a0fb)
+![image](https://github.com/fogacaue/DataLake-e-WareHouse/assets/127510984/277c1796-c056-449d-a38d-a2b885b72bd8)
+
 
 
 <h2>Resultado3</h2>
